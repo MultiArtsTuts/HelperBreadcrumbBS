@@ -10,7 +10,7 @@ class Helper
 	/**
 	* Breadcrumb for Bootstrap V4
 	*
-	*  $path BreadcrumbBS4('/'), isso irá retirar o link Home da página inicial, caso a função seja declarada global.
+	* $path BreadcrumbBS4('/'), isso irá retirar o link Home da página inicial, caso a função seja declarada global.
 	*/
 	public static function BreadcrumbBS4($path)
 	{
@@ -38,7 +38,7 @@ class Helper
 	/**
 	* Breadcrumb for Bootstrap V3
 	*
-	*  $path BreadcrumbBS3('/'), isso irá retirar o link Home da página inicial, caso a função seja declarada global.
+	* $path BreadcrumbBS3('/'), isso irá retirar o link Home da página inicial, caso a função seja declarada global.
 	*/
 	public static function BreadcrumbBS3($path)
 	{
