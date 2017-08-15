@@ -11,7 +11,7 @@ Clone this repository in app folder.
 ```
 git clone https://github.com/MultiArtsTuts/HelperBreadcrumbBS.git
 ```
-Now add the helper in config/app to aliases.
+Open config/app.php and add it to the aliases array:
 
 ```
 'Helper' => App\Helpers\Helper::class,
