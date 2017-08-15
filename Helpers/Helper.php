@@ -8,7 +8,7 @@ use Illuminate\Support\Str;
 class Helper
 {
 	/**
-	* Breadcrumb para Bootstrap V4
+	* Breadcrumb for Bootstrap V4
 	*
 	*  $path BreadcrumbBS4('/'), isso irá retirar o link Home da página inicial, caso a função seja declarada global.
 	*/
@@ -36,7 +36,7 @@ class Helper
 	}
 
 	/**
-	* Breadcrumb para Bootstrap V3
+	* Breadcrumb for Bootstrap V3
 	*
 	*  $path BreadcrumbBS3('/'), isso irá retirar o link Home da página inicial, caso a função seja declarada global.
 	*/
