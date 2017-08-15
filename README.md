@@ -25,8 +25,18 @@ Now add the helper in config/app to aliases.
 
 I hope it helps you, give your opinions and improvements.
 
+#### Money donation
+
+You can make a monetary contribution to the project. Help with whatever value you desire. To do this, just click the button below in the Donation session, it will also be helping to maintain my site.
+
 ## Donation
 <a href='https://pag.ae/bmm5mbp'><img alt='Click here to lend your support to make a donation at pagseguro.com.br!' src='http://ap.imagensbrasil.org/images/banners_250x250px_PAGSEGURO.jpg' border='0' ></a>
+
+## Credits
+Laravel Framework by [Taylor Otwell](https://github.com/laravel/laravel)
+
+## License 
+HelperBreadcrumbBS is under [MIT License](https://opensource.org/licenses/MIT)
 
 Att;
 
